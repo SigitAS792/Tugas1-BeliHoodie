@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hoodie</string>
+    <string name="nama_hoodie">Nama Hoodie</string>
+    <string name="jumlah">Jumlah Beli</string>
+    <string name="ukuran">Ukuran</string>
+    <string name="cetak">Cetak</string>
+    <string name="output_nama_hoodie">Nama Hoodie</string>
+    <string name="output_jumlah">Jumlah Beli</string>
+    <string name="output_ukuran">Ukuran</string>
+</resources>
